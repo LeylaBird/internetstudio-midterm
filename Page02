@@ -3,7 +3,7 @@
   
   <title>Leyla Bocanegra's Resume</title>
   <head>My Art Work</head>
-
+<body>
   <h2>DART art contest</h2>
   <div><img src="Dart.jpg" class="center" style="width: 586px; height: 415px;"</div>
   <h2>I AM TEXAS</h2>
@@ -15,7 +15,7 @@
   <div><img src="BLUE (1).jpg" class="center" style="width: 586px; height: 415px;"</div>
   <h2>SPARK! Dallas</h2>
   <div><img src="SPARK.jpg" class="center" style="width: 586px; height: 415px;"</div>
-  
+</body>
   
 
   
