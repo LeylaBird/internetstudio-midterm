@@ -3,6 +3,18 @@
   
   <title>Leyla Bocanegra's Resume</title>
   <head>My Art Work</head>
+
+
+
+<style>
+  h1 {
+  font-family: "Delius Swash Caps"; font-style: normal; font-weight: 400;
+}
+h2 {
+  font-family: "Delius Swash Caps"; font-style: normal; font-weight: 400;
+}
+</style>
+
 <body>
   <h2>DART art contest</h2>
   <div><img src="Dart.jpg" class="center" style="width: 586px; height: 415px;"</div>
